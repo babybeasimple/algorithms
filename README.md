@@ -1,2 +1,2 @@
-java-algorithms
+algorithms
 ===============
